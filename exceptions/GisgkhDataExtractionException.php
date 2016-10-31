@@ -5,7 +5,7 @@ namespace opengkh\gis\exceptions;
 use yii\base\Exception;
 
 /**
- * Обшибка валидации данных, полученных от ГИС ЖКХ
+ * Ошибка валидации данных, полученных от ГИС ЖКХ
  *
  * @package opengkh\gis\exceptions
  */
